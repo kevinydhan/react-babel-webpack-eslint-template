@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+
+# Dependencies
+/node_modules
+
+# Built Webpack file
+/public/bundle.js
